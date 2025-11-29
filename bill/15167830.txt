@@ -1,0 +1,24 @@
+
+		 S_MART BILLING
+	 Phone No.8975228215,pune 04
+=============================================
+Customer Name:Santosh Sathe
+Ph No.:8975228215
+Bill No.15167830			Date:15/05/2023
+=============================================
+Product Name			QTy Price	  Total
+=============================================
+    
+        
+Cycle Agarbatti			1 50.0	  50.0
+Maggi Noodles			1 14.0	  14.0
+Tata Tea			1 280.0	  280.0
+Mr.Magic Hand			23 10.0	  300.0
+=============================================
+Bill Amount:				  Rs.574.0
+Discount				  Rs.28.7
+Net Pay				  Rs.545.3
+=============================================
+  
+  Thank  You !..Visit Again    
+   

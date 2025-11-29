@@ -1,0 +1,24 @@
+
+		 S_MART BILLING
+	 Phone No.8975228215,pune 04
+=============================================
+Customer Name:Nimish Joshi
+Ph No.:7757997489
+Bill No.12056351			Date:12/05/2023
+=============================================
+Product Name			QTy Price	  Total
+=============================================
+    
+        
+Nescafe Coffee			1 10.0	  10.0
+Tur Dal			1 140.0	  140.0
+Harpic 			1 99.0	  99.0
+Rin Bar			1 25.0	  25.0
+=============================================
+Bill Amount:				  Rs.274.0
+Discount				  Rs.13.7
+Net Pay				  Rs.260.3
+=============================================
+  
+  Thank  You !..Visit Again    
+   
