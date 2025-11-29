@@ -56,6 +56,20 @@ spec:
 
     stages {
 
+        /* ---------------------------- NEW STAGE ADDED ---------------------------- */
+        stage('Check Python Version') {
+            steps {
+                container('python') {
+                    sh '''
+                        echo "Checking Python version..."
+                        python3 --version || python --version
+                    '''
+                }
+            }
+        }
+        /* ----------------------------------------------------------------------- */
+
+
         stage('Checkout Code') {
             steps {
                 echo "Pulling project from GitHub..."
@@ -189,4 +203,7 @@ spec:
 
     post {
         success {
-            echo "🚀
+            echo "🚀 Deployment Successful!"
+        }
+    }
+}
